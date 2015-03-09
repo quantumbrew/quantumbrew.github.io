@@ -5,7 +5,7 @@ title:  fazendo seu blog no Git Hub
 
 ## Usando o GitHub.io ##
 
-> [GitHub](http://github.io)
+ [GitHub](http://github.io)
 
 vc deve comecar criando uma conta, e instalando o app client do github para seu pc.
 
@@ -26,23 +26,23 @@ caso vc queira visualizar seu projeto antes de mandar para o ar, veja [este tuto
 
 Basicamente, os arquivos a mudar sao:
 
-#### _config.yml ####
+#### <strong> _config.yml </strong> ####
 
 vc vai setar as prefs do teu blg aqui. tb os detalhes do rodapeh!
 
-#### style scss ####
+#### <strong> style scss </strong> ####
 
 aqui e onde vc pode brincar de customizar, junto com o index.html
 
-#### arquivos md (inclusive pasta _posts)  ####
+#### <strong> arquivos md (inclusive pasta _posts) </strong>  ####
 
 sao seus melhores amigos. vc pode usar varias tags para colocar links, imagens de videos. mas o jekyll eh meio limitado em termos de midia aparentemente.
 
 
 
-## como escrever seus posts
+## <strong> como escrever seus posts </strong>
+
+aqui neste [link] ( http://daringfireball.net/projects/markdown/) voce encontrara as dicas para formatar seus textos nos arquivos *.md
 
 
-aqui neste [link] ( http://daringfireball.net/projects/markdown/syntax) voce encontrara as dicas para formatar seus textos nos arquivos *.md
-
-## boa blogagem!
+#### boa blogagem!
