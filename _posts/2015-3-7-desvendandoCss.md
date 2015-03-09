@@ -3,7 +3,7 @@ layout: post
 title:  fazendo seu blog no Git Hub
 ---
 
-!!! O [GitHub]({{github.io}})
+!!! O [GitHub]({{http://github.io}})
 
 vc deve comecar criando uma conta, e instalando o app client do github para seu pc.
 
