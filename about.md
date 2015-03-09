@@ -4,7 +4,7 @@ title: Sobre o Autor
 permalink: /about/
 ---
 
-[eu visto pelo pc](/images/eu.jpg)
+![eu visto pelo pc](/images/eu.jpg)
 
 Ricardo Palmieri, aka vjpalm (Santo André-SP, 1978).
 
