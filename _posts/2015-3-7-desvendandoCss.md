@@ -22,9 +22,15 @@ agora vc pode seguir as instrucoes deste [site](http://www.jekyllnow.com/)
 
 com ele vc tera em suas maos uma pasta local para alterar seu projeto.
 
-caso vc queira visualizar seu projeto antes de mandar para o ar, veja [este tutorial] (https://www.youtube.com/watch?v=EtqZVTIro_c)
+caso vc queira visualizar seu projeto antes de mandar para o ar, veja este tutorial:
 
-Basicamente, os arquivos a mudar sao:
+<a href="https://www.youtube.com/watch?v=EtqZVTIro_c
+" target="_blank"><img src="http://img.youtube.com/vi/EtqZVTIro_c/sddefault.jpg" 
+alt="tutorial jekyll" width="320" height="240" border="1" /></a>
+
+Senao, basta voce apenas alterar os arquivos dentro do seu repositorio clonado e subir de volta para a sua pasta no github, para ter seu blog customizado:
+
+Os arquivos a mudar sao:
 
 #### <strong> _config.yml </strong> ####
 
