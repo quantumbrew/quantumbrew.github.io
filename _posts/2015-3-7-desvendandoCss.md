@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  fazendo seu blog no Git Hub
+title:  Criando seu blog no Git Hub
 ---
 
 ## Usando o GitHub.io ##
