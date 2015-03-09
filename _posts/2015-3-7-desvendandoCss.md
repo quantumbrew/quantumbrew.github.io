@@ -16,7 +16,7 @@ este video vai te ajudar a setar o seu gitHub para comecar a trabalhar.
 alt="tutotial jekyll" width="240" height="180" border="10" /></a>
 
 
-### Sobre o Jekyll ##
+### <strong> Sobre o Jekyll </strong> ##
 
 agora vc pode seguir as instrucoes deste [site](http://www.jekyllnow.com/)
 
