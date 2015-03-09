@@ -3,7 +3,7 @@ layout: post
 title:  fazendo seu blog no Git Hub
 ---
 
-!!! O [GitHub]({{http://github.io}})
+!!! O [GitHub](http://github.io)
 
 vc deve comecar criando uma conta, e instalando o app client do github para seu pc.
 
@@ -16,11 +16,11 @@ alt="tutotial jekyll" width="240" height="180" border="10" /></a>
 
 !!! Sobre o Jekyll
 
-agora vc pode seguir as instrucoes deste [site]({{http://www.jekyllnow.com/}})
+agora vc pode seguir as instrucoes deste [site](http://www.jekyllnow.com/)
 
 com ele vc tera em suas maos uma pasta local para alterar seu projeto.
 
-caso vc queira visualizar seu projeto antes de mandar para o ar, veja [este tutorial] ({{ https://www.youtube.com/watch?v=EtqZVTIro_c }})
+caso vc queira visualizar seu projeto antes de mandar para o ar, veja [este tutorial] (https://www.youtube.com/watch?v=EtqZVTIro_c)
 
 Basicamente, os arquivos a mudar sao:
 
