@@ -12,8 +12,8 @@ vc deve comecar criando uma conta, e instalando o app client do github para seu 
 este video vai te ajudar a setar o seu gitHub para comecar a trabalhar.
 
 <a href="https://www.youtube.com/watch?v=jVeNnHy65Rs
-" target="_blank"><img src="/images/yt.png" 
-alt="tutotial jekyll" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/jVeNnHy65Rs/sddefault.jpg" 
+alt="tutorial jekyll" width="320" height="240" border="1" /></a>
 
 
 ### <strong> Sobre o Jekyll </strong> ##
