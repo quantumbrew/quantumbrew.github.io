@@ -6,10 +6,10 @@
 name: Willian Barela 
 
 # Short bio or description (displayed in the header)
-description: maker @OLABI-&-NoiseTupi
+description: description
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/
+avatar: https://cloud.githubusercontent.com/assets/11843828/7193625/cd5a5da4-e479-11e4-933c-731a9fa95870.JPG
 
 #
 # Flags below are optional
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCjxbOs6angK2KVbnVFKbFeQ
+  youtube: 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
