@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Sobre o Autor
+title: About me
 permalink: /about/
 ---
 
-![eu visto pelo pc])
+I love science and innovation. I believe that turns the fiction of reality (which we call science) into something real and able to change people, lives and organisms, complex or not for the better are one of the most amazing things that an intellectual entity is capable of producing.
+Biohacking for me is one of the forgotten ideologies of which the human being is bringing the crib. The background of this blog is the logo of one of the most famous and respected scientific publishers, Elsier, which brings a Latin phrase "Non Solus" (We are not alone) .There are more frontiers to conquer than the lands, seas and skies of our planet. I believe this is the scientific spirit that the gradually monopolized, institutionalized, became politicized according to our present and biohacking is there to break this paradigm, to show that everyone is able to do, understand, transform and share science to build our tree knowledge, the tree of humanity or better the intelligentsia.
 
-X,  (-SP, 1978).
 
-descrição longa
 
 ### Meu portifolio
 
 ### [site]()
 
-### [me escreva!](mailto:@gmail.com)
+### [me escreva!](mailto:willianbarelac@gmail.com)
 
 
