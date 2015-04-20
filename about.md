@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm from Brazil, Rio de Janeiro, 22 years old.
 
-Degree in Biotechnology, UFRJ. Currently do internship in the area of bioinformatics, genetic algorithm, and Neurotechnology. Vice advisor of UFRJ in the National League of Academic Biotechnology (LiNA). Chief Executive Officer of the Company Junior Tecnopólix TecX, founder management. Advisor in biohacking course in Olabi
+Degree in Biotechnology, UFRJ. Currently do internship in the area of bioinformatics, genetic algorithm, and Neurotechnology. Vice advisor of UFRJ in the National League of Academic Biotechnology (LiNA). Chief Executive Officer of the Company Junior Tecnopólix TecX, founder management. Advisor in biohacking course in Olabi.
 
 I love science and innovation. I believe that turns the fiction of reality (which we call science) into something real and able to change people, lives and organisms, complex or not for the better are one of the most amazing things that an intellectual entity is capable of producing.
 
