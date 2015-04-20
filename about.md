@@ -10,10 +10,10 @@ Biohacking for me is one of the forgotten ideologies of which the human being is
 
 
 
-# Degree in Biotechnology, UFRJ. Currently do internship in the area of bioinformatics, genetic algorithm, and Neurotechnology. Vice advisor of UFRJ in the National League of Academic Biotechnology (Lina). Chief Executive Officer of the Company Junior Tecnopólix TecX, founder management. Advisor in biohacking course in Olabi
+Degree in Biotechnology, UFRJ. Currently do internship in the area of bioinformatics, genetic algorithm, and Neurotechnology. Vice advisor of UFRJ in the National League of Academic Biotechnology (Lina). Chief Executive Officer of the Company Junior Tecnopólix TecX, founder management. Advisor in biohacking course in Olabi
 
 
 
-# [me escreva!](mailto:willianbarelac@gmail.com)
+[Write me!](mailto:willianbarelac@gmail.com)
 
 
