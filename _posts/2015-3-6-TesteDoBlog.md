@@ -8,9 +8,7 @@ title: meu primeiro post!
 <br />
 
 
-### visitem meu site!
-> [vjpalm]({{www.vjpalm.com}})
 
 
-### ou meu canal do youtube!!!
-> [ricardopalmieri]({{youtube.com/ricardopalmieri}})
+
+
