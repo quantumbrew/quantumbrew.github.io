@@ -29,9 +29,6 @@ alt="Olabi" width="320" height="240" border="1" />
 <img src="https://cloud.githubusercontent.com/assets/11843828/7251773/c1f11992-e804-11e4-9acf-29d41c7b3e80.jpeg" 
 alt="Olabi" width="320" height="240" border="1" />
 
-<img src="https://cloud.githubusercontent.com/assets/11843828/7251773/c1f11992-e804-11e4-9acf-29d41c7b3e80.jpeg" 
-alt="Olabi" width="320" height="240" border="1" />
-
 <img src="https://cloud.githubusercontent.com/assets/11843828/7251678/f9904b26-e803-11e4-8d74-d206a0efecd5.jpeg" 
 alt="Olabi" width="320" height="240" border="1" />
 
