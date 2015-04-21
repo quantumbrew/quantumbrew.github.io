@@ -40,4 +40,10 @@ Recording the electrical modifications of the Arduino on Fritzing
 <img src="https://cloud.githubusercontent.com/assets/11843828/7251688/17b82a9c-e804-11e4-8c3f-f78edb6fb859.jpg" 
 alt="Olabi" width="320" height="240" border="1" />
 
+Parece um robô ...  
+ #powerfularduino       :p
+
+<img src="https://cloud.githubusercontent.com/assets/11843828/7251699/24df7a0e-e804-11e4-9b27-1358fd46d386.jpg" 
+alt="Olabi" width="320" height="240" border="1" />
+
 
