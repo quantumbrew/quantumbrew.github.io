@@ -8,7 +8,7 @@ alt="Olabi" width="320" height="240" border="1" />
 
 On course we are following with staff [Open WetLab - WAAG] (http://waag.org/en/lab/open-wetlab ) (Netherlands) and [garagem FabLab] ( http://www.garagemfablab.com)(São Paulo) to build the following equipments with philosophy <strong> DIY </strong> and <strong> DIWO </strong>:
 
-### [Incubator] (http://wil370548.github.io/_posts/_incubator/StoryBuilding.md)
+### [Incubator] (http://wil370548/wil370548.github.io/_posts/_incubator/StoryBuilding.md)
 
 ### Microscope
 
