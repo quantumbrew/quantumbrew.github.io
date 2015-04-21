@@ -4,6 +4,9 @@ title: About me
 permalink: /about/
 ---
 
+<img src="https://cloud.githubusercontent.com/assets/11843828/7253150/cf49e694-e810-11e4-9c4c-ab2f34d114e5.JPG" 
+alt="Olabi" width="320" height="240" border="1" />
+
 I'm from Brazil, Rio de Janeiro, 22 years old.
 
 Degree in Biotechnology, UFRJ. Currently do internship in the area of bioinformatics, genetic algorithm, and Neurotechnology. Vice advisor of UFRJ in the National League of Academic Biotechnology (LiNA). Chief Executive Officer of the Company Junior Tecnopólix TecX, founder management. Advisor in biohacking course in Olabi.
