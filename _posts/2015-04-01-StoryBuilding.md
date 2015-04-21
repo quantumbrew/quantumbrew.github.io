@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Building a Incubator
+title:  Building an Incubator
 ---
 
 Joining the incubator parts laser cut according to the project
