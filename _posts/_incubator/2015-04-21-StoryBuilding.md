@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: incubator
 title:  Building a Incubator
 ---
 
