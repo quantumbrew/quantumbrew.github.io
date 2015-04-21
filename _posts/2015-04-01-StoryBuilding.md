@@ -32,4 +32,9 @@ alt="Olabi" width="320" height="240" border="1" />
 <img src="https://cloud.githubusercontent.com/assets/11843828/7251678/f9904b26-e803-11e4-8d74-d206a0efecd5.jpeg" 
 alt="Olabi" width="320" height="240" border="1" />
 
+Recording the electrical modifications of the Arduino on Fritzing 
+
+<img src="https://cloud.githubusercontent.com/assets/11843828/7251688/17b82a9c-e804-11e4-8c3f-f78edb6fb859.jpg" 
+alt="Olabi" width="320" height="240" border="1" />
+
 
