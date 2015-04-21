@@ -26,6 +26,9 @@ Planning how to put Styrofoam and improving incubator
 <img src="https://cloud.githubusercontent.com/assets/11843828/7251663/cad20950-e803-11e4-9264-08d8ec937f31.jpg" 
 alt="Olabi" width="320" height="240" border="1" />
 
+<img src="https://cloud.githubusercontent.com/assets/11843828/7251722/611fc3f2-e804-11e4-9ddb-14506c7d20ac.jpg" 
+alt="Olabi" width="320" height="240" border="1" />
+
 <img src="https://cloud.githubusercontent.com/assets/11843828/7251773/c1f11992-e804-11e4-9acf-29d41c7b3e80.jpeg" 
 alt="Olabi" width="320" height="240" border="1" />
 
