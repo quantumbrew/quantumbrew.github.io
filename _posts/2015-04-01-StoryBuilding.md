@@ -50,3 +50,15 @@ And when we think was almost ready .... we had to change the hinges !@#!#@@$
 
 <img src="https://cloud.githubusercontent.com/assets/11843828/7294718/4bc8875e-e986-11e4-8ce9-8843cf83b1b3.jpg" 
 alt="Olabi" width="320" height="240" border="1" />
+
+We had several problems that hinder the construction of the incubator, as the person who knew a lot of Arduino got sick and extra modifications of the original design, this delayed the process, but we managed to reach the end.
+
+Incubator finished !!!
+
+<img src="https://cloud.githubusercontent.com/assets/11843828/7296062/a2e0d940-e992-11e4-9c49-b46686dac27f.jpg" 
+alt="Olabi" width="320" height="240" border="1" />
+
+<img src="https://cloud.githubusercontent.com/assets/11843828/7296144/483e7be0-e993-11e4-963c-6fee1f6d27e3.jpg" 
+alt="Olabi" width="320" height="240" border="1" />
+
+
