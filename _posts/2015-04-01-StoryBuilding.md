@@ -46,4 +46,7 @@ Like a robot ...
 <img src="https://cloud.githubusercontent.com/assets/11843828/7251699/24df7a0e-e804-11e4-9b27-1358fd46d386.jpg" 
 alt="Olabi" width="320" height="240" border="1" />
 
+And when we think was almost ready .... we had to change the hinges !@#!#@@$
 
+<img src="https://cloud.githubusercontent.com/assets/11843828/7294718/4bc8875e-e986-11e4-8ce9-8843cf83b1b3.jpg" 
+alt="Olabi" width="320" height="240" border="1" />
