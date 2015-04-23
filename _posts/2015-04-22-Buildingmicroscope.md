@@ -32,3 +32,16 @@ alt="Olabi" width="320" height="240" border="1" />
 
 <img src="https://cloud.githubusercontent.com/assets/11843828/7296552/0609cce4-e997-11e4-8953-cdaa102a70fe.jpg" 
 alt="Olabi" width="320" height="240" border="1" />
+
+Vinícius  came with a broken microscope donation. He trying to unravel the mystery of how to fix ...
+
+<img src="https://cloud.githubusercontent.com/assets/11843828/7296580/41a502d2-e997-11e4-8fb3-e576e781344e.jpg" 
+alt="Olabi" width="320" height="240" border="1" />
+
+After an hour ....
+
+
+##Finished !!!
+
+<img src="https://cloud.githubusercontent.com/assets/11843828/7296590/52e1b1d0-e997-11e4-9a9e-014230be0cf6.jpg" 
+alt="Olabi" width="320" height="240" border="1" />
