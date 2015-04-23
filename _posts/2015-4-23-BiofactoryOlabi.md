@@ -24,6 +24,11 @@ On course we are following with staff [Open WetLab - WAAG] (http://waag.org/en/l
 
 ### Bioreactor
 
+Our team
+
+<img src="https://cloud.githubusercontent.com/assets/11843828/7297220/3d1d47c8-e99d-11e4-8600-229c49cd6ad3.jpg" 
+alt="Olabi" width="320" height="240" border="1" />
+
 
 Here you can discovery more information: [Biohackacademy] (http://biohackacademy.github.io) 
 
