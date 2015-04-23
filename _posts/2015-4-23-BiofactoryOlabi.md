@@ -10,7 +10,7 @@ On course we are following with staff [Open WetLab - WAAG] (http://waag.org/en/l
 
 ### [Incubator] (http://wil370548.github.io/StoryBuilding/)
 
-### Microscope
+### [Microscope] (http://wil370548.github.io/Buildingmicroscope/)
 
 ### Sterile hood
 
